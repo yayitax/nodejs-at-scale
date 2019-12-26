@@ -19,6 +19,7 @@
   "homepage": "https://github.com/yayitax/nodejs-at-scale#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-gateway": "^1.16.10",
     "joi": "^14.3.1",
     "knex": "^0.20.4",
     "nan": "^2.14.0",
