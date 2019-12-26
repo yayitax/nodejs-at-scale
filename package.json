@@ -18,6 +18,7 @@
   "homepage": "https://github.com/yayitax/nodejs-at-scale#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "joi": "^14.3.1",
     "nan": "^2.14.0",
     "superagent": "^5.1.3"
   }
